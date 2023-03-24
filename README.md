@@ -2,7 +2,7 @@
 
   <!--Informações pessoais-->
   <h1>Olá, seja-bem vindo(a)!</h1>
-  <h6>Júlia Téles Cruz | 18 anos | Estudante de Informática</h6>
+  <h6>Júlia Téles Cruz | 18 anos | Técnica de Informática | Estudante de Ciência da Computação</h6>
 
   <!--Informações sobre os códigos no github-->
   <a href="https://github.com/JuliaTeles">
