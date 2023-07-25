@@ -2,7 +2,8 @@
 
   <!--Informações pessoais-->
   <h1>Olá, seja-bem vindo(a)!</h1>
-  <h6>Júlia Téles Cruz | 18 anos | Técnica de Informática | Estudante de Ciência da Computação</h6>
+  <h6>Júlia Téles Cruz | 18 anos </h6>
+  <h5>Técnica de Informática (Cotil - UNICAMP) | Estudante de Ciência da Computação (UNESP)</h5>
 
   <!--Informações sobre os códigos no github-->
   <a href="https://github.com/JuliaTeles">
