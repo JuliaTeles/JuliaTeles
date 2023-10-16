@@ -6,8 +6,8 @@
   <h5>Técnica de Informática (Cotil - UNICAMP) | Estudante de Ciência da Computação (UNESP)</h5>
 
   <!--Informações sobre os códigos no github-->
- <!-- <a href="https://github.com/JuliaTeles"> -->
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuliaTeles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <!-- <a href="https://github.com/JuliaTeles"> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuliaTeles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaTeles&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true""/>
 
   <!--Informações para contato-->
